@@ -1,0 +1,19 @@
+.header-container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    background-color: transparent; /* Cor de fundo opcional */
+  }
+  
+  .header-image {
+    max-width: 80%; /* Reduz o tamanho da imagem para 80% da largura do container */
+    height: auto; /* Mantém as proporções */
+    margin-left: 20px; /* Move a imagem para a direita */
+    transform: scale(0.9); /* Torna a imagem ligeiramente menor */
+    transition: transform 0.3s ease, margin-left 0.3s ease; /* Transição suave para alterações */
+  }
+  
+  .header-image:hover {
+    transform: scale(1); /* Aumenta de volta ao tamanho original ao passar o mouse (opcional) */
+  }
+  

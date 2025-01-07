@@ -1,0 +1,23 @@
+/* Links.css */
+.links-container {
+    display: flex;
+    flex-direction: column; /* Alinha itens verticalmente */
+    align-items: center; /* Centraliza os itens horizontalmente */
+    gap:40px; /* Espaçamento entre as imagens */
+    padding: 20px; /* Espaçamento interno opcional */
+    justify-content: center;
+    
+  }
+  
+  .link-image {
+    max-width: 90%; /* Limita a largura da imagem para ser responsiva */
+    height: auto; /* Mantém as proporções */
+    border-radius: 8px; /* Adiciona bordas arredondadas (opcional) */
+    background-color: transparent;
+    transition: transform 0.3s ease; /* Transição ao passar o mouse */
+  }
+  
+  .link-image:hover {
+    transform: scale(1.05); /* Zoom suave ao passar o mouse */
+  }
+  

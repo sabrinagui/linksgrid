@@ -23,6 +23,6 @@
 /* Media query para telas pequenas (como celulares) */
 @media (max-width: 768px) {
   .link-image {
-    width: 120%; /* Aumenta a largura da imagem */
+    width: 160%; /* Aumenta a largura da imagem */
   }
 }

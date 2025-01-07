@@ -2,7 +2,7 @@ import React from 'react';
 import link1 from '../../assets/img/1.png';
 import link2 from '../../assets/img/2.png';
 import link3 from '../../assets/img/3.png';
-import './Links.css';
+import './links.css';
 
 function Links() {
   return (

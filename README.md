@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <h1>LinksGrid</h1>
+    <p>Uma página de links personalizada, moderna e responsiva, desenvolvida em React para facilitar o acesso às suas principais informações e promover seu negócio ou perfil pessoal.</p>
+    <img src="https://github.com/sabrinagui/linksgrid/blob/main/iPhone-12-PRO-linksgrid.vercel.app%20(1).png" alt="LinksGrid">
